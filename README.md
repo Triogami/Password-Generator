@@ -6,4 +6,5 @@ Basic password/passphrase generator
 In terminal do  
 
 `pip install pyperclip  
+
 pip install tkinter`
