@@ -3,6 +3,7 @@ Basic password/passphrase generator
 
 
 # How to use
-In terminal do 
+In terminal do  
+
 `pip install pyperclip
 pip install tkinter`
